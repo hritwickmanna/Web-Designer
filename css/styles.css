@@ -1,4 +1,5 @@
 body {
+  position: relative;
   background-color: 	#f0ffff;
   color: #40514E;
   margin: 0;
@@ -81,7 +82,7 @@ width:12.5%;
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  top: 300px;
 }
 
 .ML {
