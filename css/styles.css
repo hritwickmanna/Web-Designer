@@ -75,14 +75,14 @@ width:12.5%;
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 18.75%;
+  top: 2.5%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
-  top: 300px;
+  left: 15.625%;
+  top: 18.75%;
 }
 
 .ML {
